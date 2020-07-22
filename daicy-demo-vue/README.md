@@ -1,9 +1,8 @@
 ﻿![mahua](./img/daicy.png)
 ## 欢迎参加Daicy 机试
  * 请在项目中完成一下需求：
-     *  使用`element-ui` Table、Input 等组件完成一个表格渲染`store` 数据，并完成增删改查功能，
-        可能需要自行创建store`定义action,触发action完成需求`，相关的技术可以进行百度；
-     * main 下创建自己的目录为demo
+     *  使用`element-ui`，Table、Input 等组件完成一个表格，渲染`store`中（自己创建对应store）数据，并完成增删改查功能，
+ 需要经过一下阶段 `store 创建->定义初始数据->定义action->触发对应需求action->更新store数据-> view显示更新后数据`即可，相关的技术可以进行百度等；
         * 新增加路由  `demo` component 为demo 下对应的组件；
         * 请区分组件的state 和 全局的store
  ```javascript
