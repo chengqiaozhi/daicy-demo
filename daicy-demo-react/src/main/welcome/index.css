@@ -1,0 +1,8 @@
+.mackdownbox code{
+  background: #aaa;
+  margin: 10px;
+  color: #fff;
+}
+.mackdownbox pre{
+  background: #aaa;
+}
