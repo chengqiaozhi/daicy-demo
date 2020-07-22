@@ -2,7 +2,6 @@
   "name": "daicy-demo-vue",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "pelo_rosa <pelo_rosa@163.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
@@ -15,6 +14,7 @@
   },
   "dependencies": {
     "element-ui": "^2.13.2",
+    "github-markdown-css": "^4.0.0",
     "html-loader": "^1.1.0",
     "markdown-loader": "^5.1.0",
     "showdown": "^1.9.1",
