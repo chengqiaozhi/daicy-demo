@@ -9,5 +9,5 @@
  ```javascript
         如您完成项目请将项目打包发送邮件到： qzcheng@daicy.net
         邮件名称为：xxxx-机试 
-        打包请勿忽略 node_modules 目录
+        项目压缩时，请勿忽略 node_modules 目录，防止文件过大谢谢
  ```
